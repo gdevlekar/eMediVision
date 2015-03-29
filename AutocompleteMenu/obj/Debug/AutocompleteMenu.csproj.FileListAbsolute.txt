@@ -1,0 +1,8 @@
+E:\eMediVision\AutocompleteMenu\obj\Debug\ResolveAssemblyReference.cache
+E:\eMediVision\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+E:\eMediVision\AutocompleteMenu\obj\Debug\GenerateResource.read.1.tlog
+E:\eMediVision\AutocompleteMenu\obj\Debug\GenerateResource.write.1.tlog
+E:\eMediVision\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll
+E:\eMediVision\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+E:\eMediVision\AutocompleteMenu\obj\Debug\AutocompleteMenu.dll
+E:\eMediVision\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb

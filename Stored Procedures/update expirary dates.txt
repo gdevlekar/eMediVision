@@ -1,0 +1,28 @@
+--select * from Products
+
+ 
+
+--DECLARE @Upper INT;
+--DECLARE @Lower INT;
+--SET @Lower = 1     -- The lowest random number
+--SET @Upper = 365    -- The highest random number
+
+--DECLARE @ID int=0
+ 
+
+--DECLARE @DateRand datetime
+--while(@ID<=4503)
+--BEGIN
+--update Products
+--set ExpiraryDate=
+--DATEADD(DD,@Lower + CONVERT(INT, (@Upper-@Lower+1)*RAND()),GetDate())
+--where ID=@ID;
+
+--set @ID=@ID+1
+ 
+--END
+
+
+
+
+  

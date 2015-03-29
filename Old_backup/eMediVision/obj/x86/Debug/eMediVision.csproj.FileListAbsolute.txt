@@ -1,0 +1,36 @@
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\eMediVision.Form2.resources
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\eMediVision.Properties.Resources.resources
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\bin\Debug\eMediVision.exe
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\bin\Debug\eMediVision.pdb
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\eMediVision.exe
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\eMediVision.pdb
+C:\Users\bunty\Documents\Visual Studio 2010\Projects\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmLogin.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmAddCategory.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmAddDoctor.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmAddArea.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmAddProducts.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmVoucherEntryPurchase.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmUsers.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmMaster.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmDisplay.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmMainScreen.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmLogin.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.frmVoucherEntry.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.PopUp.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.Properties.Resources.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.SoftwareLock.resources
+E:\eMediVision\eMediVision\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eMediVision\eMediVision\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eMediVision\eMediVision\bin\Debug\dbMain.sdf
+E:\eMediVision\eMediVision\bin\Debug\eMediVision.exe.config
+E:\eMediVision\eMediVision\bin\Debug\eMediVision.exe
+E:\eMediVision\eMediVision\bin\Debug\eMediVision.pdb
+E:\eMediVision\eMediVision\bin\Debug\AutocompleteMenu.dll
+E:\eMediVision\eMediVision\bin\Debug\AutocompleteMenu.pdb
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.exe
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.pdb
+E:\eMediVision\eMediVision\obj\x86\Debug\eMediVision.MDIParent1.resources
